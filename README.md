@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GeorgeRaducanu
+- 👋 Hi, I’m @GeorgeRaducanu, currently a third year computer science student
 - 👀 I’m interested in Computer Science, Mathematics and Science
-- 🌱 I’m currently  studying Computer Engineering at the "Faculty of Automatic Control and Computer Science" in Bucharest
+- 🌱 I’m currently studying Computer Engineering at the "Faculty of Automatic Control and Computer Science" in Bucharest
 - 📫 You may reach me via email
 
 <!---
